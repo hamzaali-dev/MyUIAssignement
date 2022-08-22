@@ -516,6 +516,12 @@ h3 {
 		width: 370px;
 		height: 42px;
 	}
+	.flex-con1 {
+		height: 125vh;
+	}
+	.flex-con-5 {
+		height: 120vh;
+	}
 }
 @media (max-width: 380px) {
 	.con-4-questions {
@@ -523,7 +529,7 @@ h3 {
 		height: 40px;
 	}
 	.flex-con1 {
-		height: 140vh;
+		height: 150vh;
 	}
 	.flex-con-5 {
 		height: 140vh;
