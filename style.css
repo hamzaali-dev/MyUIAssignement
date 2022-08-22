@@ -405,9 +405,6 @@ h3 {
 	.questions-div {
 		padding-bottom: 20%;
 	}
-	.flex-con-5 {
-		height: 110vh;
-	}
 	.row > * {
 		margin-left: 0%;
 		margin-right: 0%;
@@ -472,14 +469,8 @@ h3 {
 	.why-div {
 		width: 100%;
 	}
-	.flex-con-4 {
-		height: fit-content;
-	}
 	.questions-div {
 		padding-bottom: 20%;
-	}
-	.flex-con-3 {
-		height: fit-content;
 	}
 	.image2 {
 		width: 90%;
