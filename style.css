@@ -389,7 +389,7 @@ h3 {
 		padding-bottom: 20%;
 	}
 	.flex-con-5 {
-		height: 100vh;
+		height: 110vh;
 	}
 	.row > * {
 		margin-left: 0%;
@@ -438,7 +438,7 @@ h3 {
 		padding-bottom: 20%;
 	}
 	.flex-con-5 {
-		height: 105vh;
+		height: 110vh;
 	}
 	.row > * {
 		margin-left: 0%;
@@ -508,7 +508,7 @@ h3 {
 		width: 40%;
 	}
 	.flex-con-4 {
-		height: 100vh;
+		height: 150vh;
 	}
 }
 @media (max-width: 400px) {
